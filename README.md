@@ -3,3 +3,6 @@ The project is created and manipulated by a group of 3 students from FPT Univers
 Dataset link: https://www.kaggle.com/datasets/yevheniiklymenko/beehive-buzz-anomalies/data
 # Versions
 - DL 1.1: CNN with Mel Frequency spectrogram
+- DL 1.2:
+- DL 1.3:
+- DL 1.4:
